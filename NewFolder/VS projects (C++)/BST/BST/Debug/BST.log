@@ -1,0 +1,4 @@
+﻿  BST.cpp
+  main.cpp
+D:\Visual Studio\VS projects (C++)\BST\BST\main.cpp(15,3): error C3861: 'for_each': identifier not found
+  Generating Code...

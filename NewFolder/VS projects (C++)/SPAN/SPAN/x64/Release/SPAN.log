@@ -1,0 +1,25 @@
+﻿  Kruskal.cpp
+D:\Visual Studio\VS projects (C++)\SPAN\SPAN\Kruskal.cpp(24,3): warning C4551: function call missing argument list
+D:\Visual Studio\VS projects (C++)\SPAN\SPAN\Kruskal.cpp(29,35): warning C4244: 'initializing': conversion from 'double' to 'size_t', possible loss of data
+D:\Visual Studio\VS projects (C++)\SPAN\SPAN\Kruskal.cpp(30,37): warning C4244: 'initializing': conversion from 'double' to 'size_t', possible loss of data
+D:\Visual Studio\VS projects (C++)\SPAN\SPAN\Kruskal.cpp(31,33): warning C4244: 'initializing': conversion from 'double' to 'size_t', possible loss of data
+D:\Visual Studio\VS projects (C++)\SPAN\SPAN\Kruskal.cpp(75,33): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Visual Studio\VS projects (C++)\SPAN\SPAN\Kruskal.cpp(76,34): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Visual Studio\VS projects (C++)\SPAN\SPAN\Kruskal.cpp(87,24): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  LinkedList.cpp
+  Main.cpp
+  Prim.cpp
+D:\Visual Studio\VS projects (C++)\SPAN\SPAN\Prim.cpp(20,3): warning C4551: function call missing argument list
+D:\Visual Studio\VS projects (C++)\SPAN\SPAN\Prim.cpp(26,27): warning C4244: 'initializing': conversion from 'double' to 'size_t', possible loss of data
+D:\Visual Studio\VS projects (C++)\SPAN\SPAN\Prim.cpp(27,26): warning C4244: 'initializing': conversion from 'double' to 'size_t', possible loss of data
+D:\Visual Studio\VS projects (C++)\SPAN\SPAN\Prim.cpp(28,33): warning C4244: 'initializing': conversion from 'double' to 'size_t', possible loss of data
+D:\Visual Studio\VS projects (C++)\SPAN\SPAN\Prim.cpp(75,33): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Visual Studio\VS projects (C++)\SPAN\SPAN\Prim.cpp(90,30): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Visual Studio\VS projects (C++)\SPAN\SPAN\Prim.cpp(110,38): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Visual Studio\VS projects (C++)\SPAN\SPAN\Prim.cpp(111,30): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Visual Studio\VS projects (C++)\SPAN\SPAN\Prim.cpp(127,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 221 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  SPAN.vcxproj -> D:\Visual Studio\VS projects (C++)\SPAN\x64\Release\SPAN.exe

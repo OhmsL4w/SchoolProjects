@@ -1,0 +1,18 @@
+﻿cl : command line warning D9025: overriding '/sdl' with '/GS-'
+  HUFF.cpp
+D:\Visual Studio\VS projects (C++)\HUFF\HUFF\HUFF.cpp(100,33): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Visual Studio\VS projects (C++)\HUFF\HUFF\HUFF.cpp(127,45): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Visual Studio\VS projects (C++)\HUFF\HUFF\HUFF.cpp(262,33): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Visual Studio\VS projects (C++)\HUFF\HUFF\HUFF.cpp(304,45): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Visual Studio\VS projects (C++)\HUFF\HUFF\HUFF.cpp(505,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Main.cpp
+D:\Visual Studio\VS projects (C++)\HUFF\HUFF\Main.cpp(73,45): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Visual Studio\VS projects (C++)\HUFF\HUFF\Main.cpp(86,45): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Visual Studio\VS projects (C++)\HUFF\HUFF\Main.cpp(100,45): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Visual Studio\VS projects (C++)\HUFF\HUFF\Main.cpp(113,45): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  11 of 243 functions ( 4.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    16 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  HUFF.vcxproj -> D:\Visual Studio\VS projects (C++)\HUFF\x64\Release\HUFF.exe

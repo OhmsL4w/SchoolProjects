@@ -1,0 +1,8 @@
+﻿  Account.cpp
+  Account_Util.cpp
+  Checking_Account.cpp
+  Savings_Account.cpp
+  Trust_Account.cpp
+  main.cpp
+  Generating Code...
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(1075,5): error MSB6006: "link.exe" exited with code 1.

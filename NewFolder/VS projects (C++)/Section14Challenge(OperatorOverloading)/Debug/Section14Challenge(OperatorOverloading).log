@@ -1,0 +1,3 @@
+﻿  Mystring.cpp
+D:\Visual Studio\VS projects (C++)\Section14Challenge(OperatorOverloading)\Mystring.cpp(209,26): warning C4018: '<': signed/unsigned mismatch
+  Section14Challenge(OperatorOverloading).vcxproj -> D:\Visual Studio\VS projects (C++)\C++ projects\Debug\Section14Challenge(OperatorOverloading).exe

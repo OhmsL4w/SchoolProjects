@@ -1,0 +1,12 @@
+﻿  Main.cpp
+D:\Visual Studio\VS projects (C++)\WordLadder\WordLadder\Main.cpp(31,56): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  WordLadder.cpp
+D:\Visual Studio\VS projects (C++)\WordLadder\WordLadder\WordLadder.cpp(19,3): warning C4551: function call missing argument list
+D:\Visual Studio\VS projects (C++)\WordLadder\WordLadder\WordLadder.cpp(80,23): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+D:\Visual Studio\VS projects (C++)\WordLadder\WordLadder\WordLadder.cpp(91,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  0 of 432 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  WordLadder.vcxproj -> D:\Visual Studio\VS projects (C++)\WordLadder\x64\Release\WordLadder.exe
